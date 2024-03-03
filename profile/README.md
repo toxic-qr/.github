@@ -8,6 +8,6 @@
 
 ### Contacts
 
-👥 Discord Community: https://discord.gg/j4kJVcN7z6
+👥 Toxic Finance Community: [Discord](https://discord.gg/j4kJVcN7z6)
 
-❔ Q&A: @roaffix *(Discord)* / @mynameistony *(Telegram)*
+👽 Maintainer: [Discord](https://discordapp.com/users/roaffix) | [Telegram](https://t.me/mynameistony)
